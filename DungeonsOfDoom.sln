@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DungeonsOfDoom", "DungeonsOfDoom\DungeonsOfDoom.csproj", "{5BDBC626-8907-425F-85AA-88928DC55EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonsOfDoom.Core", "DungeonsOfDoom.Core\DungeonsOfDoom.Core.csproj", "{5A94CA8C-69D0-4044-BDDF-96A5F0744A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A94CA8C-69D0-4044-BDDF-96A5F0744A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A94CA8C-69D0-4044-BDDF-96A5F0744A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A94CA8C-69D0-4044-BDDF-96A5F0744A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A94CA8C-69D0-4044-BDDF-96A5F0744A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6B5232-2864-4BE0-A145-964965D3CBC4}
+	EndGlobalSection
+EndGlobal
